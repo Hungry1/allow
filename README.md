@@ -1,0 +1,2 @@
+# allow
+Open Soucre code
